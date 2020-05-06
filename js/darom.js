@@ -1,6 +1,6 @@
  "use strict"
 
-// String.prototype.firstLetter = function () {
+// String.prototype.firstLeetter = function () {
 //     return this[0];
 // }
 
